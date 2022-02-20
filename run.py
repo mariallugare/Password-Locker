@@ -31,4 +31,8 @@ def check_existing_accounts(username):
     Function that check if an account exists with that username and return a Boolean
     '''
     return User.account_exist(username)   
-
+def show_accounts():
+    '''
+    Function that returns all the saved accounts
+    '''
+    return User.show_accounts() 
