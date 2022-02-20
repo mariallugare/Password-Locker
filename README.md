@@ -35,13 +35,13 @@ Initial Release
 License
 This project is licen
 
-Installation-setup.
+# Installation-setup.
 Fork from Github
-git clone 
+git clone git@github.com:mariallugare/Password-Locker.git
 cd password-locks
 chmod +x run.py
 ./run.py command
-Technologies Used.
+# Technologies Used.
 Python
 
 Contact Information.
