@@ -23,7 +23,9 @@ Python
 # Contact Information.
 
 if you have any questions about the project please contact me via:
+
 Phone number:0728608551
+
 Email address:mariallugare@gmail.com
 
 # Known bugs
