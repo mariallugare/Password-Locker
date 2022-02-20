@@ -7,7 +7,7 @@ This project allows users to  have an authentication system that enables a user 
 
 # Getting Started
 Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+You 
 ex. Windows 10
 Installing
 How/where to download your program
@@ -33,13 +33,22 @@ See commit change or See release history
 0.1
 Initial Release
 License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licen
 
-Acknowledgments
-Inspiration, code snippets, etc.
+Installation-setup.
+Fork from Github
+git clone 
+cd password-locks
+chmod +x run.py
+./run.py command
+Technologies Used.
+Python
 
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+Contact Information.
+if you have any questions about the project please contact me via nancykigotho14@gmail.com. or call 0705814086.
+
+# Known bugs
+Thankfully i have no bugs.
+
+License.
+MIT License.
