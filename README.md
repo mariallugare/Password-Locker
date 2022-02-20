@@ -1,6 +1,6 @@
 # Password-locker
 # PASSWORD-LOCKER
-This is a pyhon project that allows users to generate passwords.
+This is a pyhon project that allows users to generate passwords and they are also given an option to generate their own passwords.
 
 # Description
 This project allows users to  have an authentication system that enables a user to log into their account and view their credentials.
